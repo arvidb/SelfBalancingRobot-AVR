@@ -5,7 +5,7 @@ Robot code for the Atmega 168 MCU
 
 Requirement
 ===========
-
+CrossPack-AVR (http://www.obdev.at/products/crosspack/download.html)
 
 QuickStart
 ==========
