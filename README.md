@@ -14,6 +14,29 @@ QuickStart
 Compilation
 ===========
 
+Pin Configuration
+===========
+    PD0 - UART RX
+    PD1 - UART TX
+    PD2 - Encoder 1 Interrupt
+    PD3 - Encoder 2 Interrupt
+    PD4 - Motor1 B
+    PD5 - PWM 1
+    PD6 - PWM 2
+    PB1 - Motor2 A
+    PB2 - Motor2 B
+    PB3 - Motor1 A
+    PB5 - Led 1
+    PB6 - Encoder 1 B
+    PB7 - Encoder 2 B
+ 
+    PC0 - Encoder 1 A
+    PC1 - Encoder 1 B
+    PC2 - Encoder 2 A
+    PC3 - Encoder 2 B
+ 
+    PC4 - I2C SCL
+    PC5 - I2C SDA
 
 License
 =======
